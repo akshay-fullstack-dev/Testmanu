@@ -1,4 +1,4 @@
-<template>
+<template> manu
     <div class="form-group">
       <label class="input-label">Currencies</label>
       <VueMultiselect
